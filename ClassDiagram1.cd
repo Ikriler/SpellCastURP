@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ButtonController">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgACAAAAAAAAAAAAAAQAAAAAAAAIEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ButtonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeathScreen">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAIAAAAAAAAAACAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\DeathScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEQEEAAAACEgIAAAAAAIGAAAAgCgAAACZAACAAAACNA=</HashCode>
+      <FileName>Assets\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FollowCam">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FollowCam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABgAAAOAAAwAAEAAACAAAABIgAEABAiAAACAAEUA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneralPossible">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GeneralPossible.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthBar">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAQEAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\HealthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hero">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="GeneralPossible" ManuallyRouted="true">
+      <Path>
+        <Point X="7.75" Y="1.925" />
+        <Point X="7.75" Y="2.115" />
+        <Point X="7.75" Y="2.115" />
+        <Point X="7.75" Y="2.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAYAEAAAAIAAAAAIAAEAAAAaAAAAAAAABAMAQACAANA=</HashCode>
+      <FileName>Assets\Scripts\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightLake">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAGAAAACAAAAACAAAAAAgAIAAQAAAAAiADEE=</HashCode>
+      <FileName>Assets\Scripts\LightLake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetBaseVolume">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SetBaseVolume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundButtonSpaws">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEAACAAEA=</HashCode>
+      <FileName>Assets\Scripts\SoundButtonSpaws.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VolumeController">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAACAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\VolumeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VolumeSlider">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\VolumeSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
